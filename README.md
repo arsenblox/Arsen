@@ -1,15 +1,7 @@
 <h2 align="left">Hi There👋! My name is Arsen and I'm a Programmer/Animators, from Indonesia</h2>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="1000" width="1080" src="https://media1.tenor.com/m/LStU8mGd63kAAAAd/blue-archive-sorasaki-hina.gif"  />
+<img align="right" height="500" width="500" src="[https://media1.tenor.com/m/LStU8mGd63kAAAAd/blue-archive-sorasaki-hina.gif](https://media1.tenor.com/m/8yDzf4Gc580AAAAC/hina-hina-blue-archive.gif)"  />
 
 ###
 
